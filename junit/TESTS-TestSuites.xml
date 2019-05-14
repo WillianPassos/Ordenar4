@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="LAPTOP-E55MG003" id="0" name="Ordenar4" package="Ordenar4.Ordenar4" skipped="0" tests="1" time="0.265" timestamp="2019-05-14T17:10:03">
+  <testsuite errors="0" failures="0" hostname="LAPTOP-E55MG003" id="0" name="Ordenar4" package="Ordenar4.Ordenar4" skipped="0" tests="1" time="0.274" timestamp="2019-05-14T17:21:42">
       <properties>
           <property name="java.vendor" value="Oracle Corporation" />
 
@@ -152,7 +152,7 @@
 
           <property name="java.class.path" value="C:\Users\willi\Desktop\Ordenar4\Ordenar4\target\classes;C:\Users\willi\Desktop\Ordenar4\Ordenar4\target\test-classes;C:\Users\willi\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-java\3.11.0\selenium-java-3.11.0.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-api\3.11.0\selenium-api-3.11.0.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.11.0\selenium-chrome-driver-3.11.0.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.11.0\selenium-edge-driver-3.11.0.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.11.0\selenium-firefox-driver-3.11.0.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.11.0\selenium-ie-driver-3.11.0.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.11.0\selenium-opera-driver-3.11.0.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.11.0\selenium-remote-driver-3.11.0.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.11.0\selenium-safari-driver-3.11.0.jar;C:\Users\willi\.m2\repository\org\seleniumhq\selenium\selenium-support\3.11.0\selenium-support-3.11.0.jar;C:\Users\willi\.m2\repository\net\bytebuddy\byte-buddy\1.7.9\byte-buddy-1.7.9.jar;C:\Users\willi\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\willi\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\willi\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\willi\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\willi\.m2\repository\com\google\guava\guava\23.6-jre\guava-23.6-jre.jar;C:\Users\willi\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\willi\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\willi\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\willi\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\willi\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\willi\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\willi\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\willi\.m2\repository\com\squareup\okhttp3\okhttp\3.9.1\okhttp-3.9.1.jar;C:\Users\willi\.m2\repository\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar;C:\Users\willi\.m2\repository\org\mockito\mockito-all\1.10.19\mockito-all-1.10.19.jar;C:\Users\willi\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar;C:\Users\willi\.m2\repository\info\cukes\cucumber-core\1.2.5\cucumber-core-1.2.5.jar;C:\Users\willi\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar;C:\Users\willi\.m2\repository\info\cukes\cucumber-java\1.2.5\cucumber-java-1.2.5.jar;C:\Users\willi\.m2\repository\info\cukes\cucumber-junit\1.2.5\cucumber-junit-1.2.5.jar;C:\Users\willi\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\willi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\willi\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar;C:\Users\willi\.m2\repository\info\cukes\cucumber-picocontainer\1.2.5\cucumber-picocontainer-1.2.5.jar;C:\Users\willi\.m2\repository\org\picocontainer\picocontainer\2.15\picocontainer-2.15.jar;C:\Users\willi\.m2\repository\org\springframework\spring-web\4.1.6.RELEASE\spring-web-4.1.6.RELEASE.jar;C:\Users\willi\.m2\repository\org\springframework\spring-aop\4.1.6.RELEASE\spring-aop-4.1.6.RELEASE.jar;C:\Users\willi\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\willi\.m2\repository\org\springframework\spring-beans\4.1.6.RELEASE\spring-beans-4.1.6.RELEASE.jar;C:\Users\willi\.m2\repository\org\springframework\spring-context\4.1.6.RELEASE\spring-context-4.1.6.RELEASE.jar;C:\Users\willi\.m2\repository\org\springframework\spring-expression\4.1.6.RELEASE\spring-expression-4.1.6.RELEASE.jar;C:\Users\willi\.m2\repository\org\springframework\spring-core\4.1.6.RELEASE\spring-core-4.1.6.RELEASE.jar;C:\Users\willi\.p2\pool\plugins\org.junit.jupiter.api_5.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit.jupiter.engine_5.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit.jupiter.migrationsupport_5.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit.jupiter.params_5.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit.platform.commons_1.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit.platform.engine_1.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit.platform.launcher_1.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit.platform.runner_1.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit.platform.suite.api_1.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit.vintage.engine_5.4.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.opentest4j_1.1.1.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.apiguardian_1.0.0.v20190212-2109.jar;C:\Users\willi\.p2\pool\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Users\willi\.p2\pool\plugins\org.hamcrest.core_1.3.0.v20180420-1519.jar;C:\Program Files\Java\jdk1.8.0_201\lib;C:\Program Files\Java\jdk1.8.0_201\lib\tools.jar;C:\Program Files\Java\jdk1.8.0_201\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib;C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Users\willi\.p2\pool\plugins\org.apache.ant_1.10.5.v20180808-0324\lib\ant-launcher.jar;C:\Users\willi\.p2\pool\plugins\org.apache.ant_1.10.5.v20180808-0324\lib\ant.jar;C:\Users\willi\.p2\pool\plugins\org.apache.ant_1.10.5.v20180808-0324\lib\ant-junit.jar;C:\Users\willi\.p2\pool\plugins\org.apache.ant_1.10.5.v20180808-0324\lib\ant-junit4.jar" />
 
-          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Ordenar4.Ordenar4.Ordenar4 skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\willi\Desktop\Ordenar4\Ordenar4\junit\TEST-Ordenar4.Ordenar4.Ordenar4.xml crashfile=C:\Users\willi\Desktop\Ordenar4\Ordenar4\junitvmwatcher8128783647713471298.properties propsfile=C:\Users\willi\Desktop\Ordenar4\Ordenar4\junit4827737932802307340.properties" />
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Ordenar4.Ordenar4.Ordenar4 skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\willi\Desktop\Ordenar4\Ordenar4\junit\TEST-Ordenar4.Ordenar4.Ordenar4.xml crashfile=C:\Users\willi\Desktop\Ordenar4\Ordenar4\junitvmwatcher2605013694346054254.properties propsfile=C:\Users\willi\Desktop\Ordenar4\Ordenar4\junit5742529216689812553.properties" />
 
           <property name="ant.file.Ordenar4" value="C:\Users\willi\Desktop\Ordenar4\Ordenar4\build.xml" />
 
@@ -238,7 +238,7 @@
 
       </properties>
 
-      <testcase classname="Ordenar4.Ordenar4.Ordenar4" name="TeseOrdenar" time="0.198" />
+      <testcase classname="Ordenar4.Ordenar4.Ordenar4" name="TeseOrdenar" time="0.203" />
 
       <system-out><![CDATA[ ----------------------------------
 |Numeros ordenados por Bubble Sort |
@@ -2699,7 +2699,6 @@
 2453
 2454
 2455
-2456
 2457
 2458
 2459
@@ -2783,6 +2782,7 @@
 2537
 2538
 2539
+2540
 2541
 2542
 2543
@@ -10243,7 +10243,7 @@
 9998
 9999
  -------------------------------------------------------------
-|Tempo de execucao do metodo Bubble Sort: 156 Milisegundos   |
+|Tempo de execucao do metodo Bubble Sort: 168 Milisegundos   |
  -------------------------------------------------------------
 ]]></system-out>
 
